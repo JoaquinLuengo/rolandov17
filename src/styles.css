@@ -14,3 +14,48 @@ body {
     margin:  0 ;
 }
 */
+
+/* Estilos comunes para todos los inputs */
+/*
+.custom-input {
+    appearance: none;
+    border: 1px solid #ccc;
+    border-radius: 0;
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 8px 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    font-size: 14px;
+    color: #333;
+    outline: none;
+  }
+  
+  .custom-input::placeholder {
+    color: #666;
+  }
+  
+  .custom-input:focus {
+    border-color: #3f83f8;
+    box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
+  }
+  */
+/*
+  appearance-none 
+  rounded-none 
+  relative block
+   w-full 
+   px-3 py-2 
+   border 
+   border-gray-300 
+   placeholder-gray-500 
+   text-gray-900 
+   rounded-t-md 
+   focus:outline-none 
+   focus:ring-indigo-500 
+   focus:border-indigo-500 
+   focus:z-10 
+   sm:text-sm
+   */
